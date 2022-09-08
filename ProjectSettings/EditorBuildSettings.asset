@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1-MainMenu.unity
+    guid: b285201ccee0e2e4baa270f6196df143
+  - enabled: 1
+    path: Assets/Scenes/2-Jail.unity
+    guid: 5859532817f8fba46be949118cbff34c
+  - enabled: 1
+    path: Assets/Scenes/3-Village.unity
+    guid: bbbb176743fd4a047988ac3df1bab3e5
+  m_configObjects: {}

@@ -1,0 +1,1 @@
+- Fix bars just vanishing quickly
